@@ -1,0 +1,3 @@
+/build/build/CMakeFiles/ClickshareCertificateProvider.dir
+/build/build/CMakeFiles/edit_cache.dir
+/build/build/CMakeFiles/rebuild_cache.dir
